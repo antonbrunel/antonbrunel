@@ -133,65 +133,70 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 <td width="33%" valign="top">
 <h3>Step Up Factory</h3>
 <p><b>Transformation Studio</b></p>
-<p><i>Turning fitness results into powerful visual proof.</i></p>
+<p><i>Visual proof engine for fitness results.</i></p>
 <ul>
 <li>Before/After editor</li>
 <li>Lead generation funnel</li>
-<li>Mobile-safe image pipeline</li>
+<li>Mobile image pipeline</li>
 </ul>
 <a href="https://resultats.stepupfactory.fr">Visit Project</a>
 </td>
 <td width="33%" valign="top">
 <h3>Aether UX</h3>
 <p><b>Booking System</b></p>
-<p><i>Coach booking platform with a real-time live editor.</i></p>
+<p><i>Live coach booking with real-time editing.</i></p>
 <ul>
-<li>Automated booking funnel</li>
+<li>Automated funnel</li>
 <li>n8n orchestration</li>
-<li>Custom slug architecture</li>
+<li>Custom slug system</li>
 </ul>
 <a href="https://bilan.stepupfactory.fr">Visit Project</a>
 </td>
 <td width="33%" valign="top">
 <h3>D’Artgil Café</h3>
 <p><b>Voice Assistant</b></p>
-<p><i>Real-time voice AI for local business operations.</i></p>
+<p><i>Real-time voice AI for local business.</i></p>
 <ul>
-<li>Bidirectional audio streaming</li>
-<li>Gemini Live API integration</li>
-<li>Instant FAQ and booking</li>
+<li>Bidirectional streaming</li>
+<li>Gemini Live API</li>
+<li>Instant FAQ & Booking</li>
 </ul>
-<p><i>Demo coming soon</i></p>
+<p><i>Development in progress</i></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 <h3>Sudoku Multiplayer</h3>
 <p><b>Real-time Game</b></p>
-<p><i>Collaborative experience with seamless sync.</i></p>
+<p><i>Collaborative experience with sync recovery.</i></p>
 <ul>
-<li>Cooperative and Versus modes</li>
-<li>Instant reconnection logic</li>
-<li>Local state recovery</li>
+<li>Cooperative & Versus</li>
+<li>Instant reconnection</li>
+<li>State persistence</li>
 </ul>
 <a href="https://sudoku-together-36386059600.us-west1.run.app">Play Now</a>
 </td>
 <td width="33%" valign="top">
 <h3>QSE Brunel</h3>
 <p><b>Industrial Training</b></p>
-<p><i>Immersive platform powered by AI agents.</i></p>
+<p><i>Immersive platform for workplace safety.</i></p>
 <ul>
 <li>AI Scenario generator</li>
-<li>Immersive investigation engine</li>
+<li>Investigation engine</li>
 <li>Performance analytics</li>
 </ul>
-<p><i>Demo coming soon</i></p>
+<p><i>URL coming soon</i></p>
 </td>
 <td width="33%" valign="top" align="center">
-<br><br>
+
+
+
+
 <p><b>Next Project?</b></p>
 <p>Could be yours.</p>
-<br>
+
+
+
 <a href="https://github.com/antonbrunel">Get in touch</a>
 </td>
 </tr>
