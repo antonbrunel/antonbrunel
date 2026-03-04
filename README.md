@@ -23,7 +23,7 @@
 
 I build **real web products using AI-generated code**, then make them **actually operable** in production.
 
-I am not a traditional developer. I am a **Product Builder**. My value doesn't lie in typing lines of code, but in orchestrating intelligence to solve business problems.
+I can't call myself a developer. I am a **Product Builder**. My value doesn't lie in the lines of code, but in orchestrating intelligence to solve business problems.
 
 • **UX Architecture** | From first scroll to conversion.  
 • **Business Funnels** | Turning traffic into leads and revenue.  
@@ -128,89 +128,72 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 
 # Featured Projects
 
-<table>
+<table border="0">
 <tr>
-
-<td width="20%" valign="top">
-
-### Step Up Factory
-
-### Transformation Studio
-
-**resultats.stepupfactory.fr**
-
-Transformations into powerful visual proof.
-
-• Before/After editor
-• Lead gen funnel
-• Mobile image pipeline
-
-[Visit project](https://resultats.stepupfactory.fr)
-
+<td width="33%" valign="top">
+<h3>Step Up Factory</h3>
+<p><b>Transformation Studio</b></p>
+<p><i>Turning fitness results into powerful visual proof.</i></p>
+<ul>
+<li>Before/After editor</li>
+<li>Lead generation funnel</li>
+<li>Mobile-safe image pipeline</li>
+</ul>
+<a href="https://resultats.stepupfactory.fr">Visit Project</a>
 </td>
-
-<td width="20%" valign="top">
-
-### Step Up Factory
-
-### Aether UX
-
-**bilan.stepupfactory.fr**
-
-Coach booking platform with live editor.
-
-• Booking funnel
-• n8n orchestration
-• Custom slug system
-
-[Visit project](https://bilan.stepupfactory.fr)
-
+<td width="33%" valign="top">
+<h3>Aether UX</h3>
+<p><b>Booking System</b></p>
+<p><i>Coach booking platform with a real-time live editor.</i></p>
+<ul>
+<li>Automated booking funnel</li>
+<li>n8n orchestration</li>
+<li>Custom slug architecture</li>
+</ul>
+<a href="https://bilan.stepupfactory.fr">Visit Project</a>
 </td>
-
-<td width="20%" valign="top">
-
-### Sudoku Multiplayer
-
-Real-time collaborative sudoku.
-
-• Co-op & versus
-• Seamless reconnection
-• Local state recovery
-
-[Link](https://sudoku-together-36386059600.us-west1.run.app)
-
+<td width="33%" valign="top">
+<h3>D’Artgil Café</h3>
+<p><b>Voice Assistant</b></p>
+<p><i>Real-time voice AI for local business operations.</i></p>
+<ul>
+<li>Bidirectional audio streaming</li>
+<li>Gemini Live API integration</li>
+<li>Instant FAQ and booking</li>
+</ul>
+<p><i>Demo coming soon</i></p>
 </td>
-
-<td width="20%" valign="top">
-
-### QSE Brunel
-
-Industrial training platform powered by AI.
-
-• Immersive investigation
-• Performance analytics
-• Scenario authoring
-
-[Link](https://qse.antton-brunel.com/#/welcome)
-
+</tr>
+<tr>
+<td width="33%" valign="top">
+<h3>Sudoku Multiplayer</h3>
+<p><b>Real-time Game</b></p>
+<p><i>Collaborative experience with seamless sync.</i></p>
+<ul>
+<li>Cooperative and Versus modes</li>
+<li>Instant reconnection logic</li>
+<li>Local state recovery</li>
+</ul>
+<a href="https://sudoku-together-36386059600.us-west1.run.app">Play Now</a>
 </td>
-
-<td width="20%" valign="top">
-
-### D’Artgil Café
-
-### Voice Assistant
-
-Real-time voice AI for local business.
-
-• Bidirectional audio
-• Conversational AI
-• Instant FAQ & Booking
-
-URL coming soon
-
+<td width="33%" valign="top">
+<h3>QSE Brunel</h3>
+<p><b>Industrial Training</b></p>
+<p><i>Immersive platform powered by AI agents.</i></p>
+<ul>
+<li>AI Scenario generator</li>
+<li>Immersive investigation engine</li>
+<li>Performance analytics</li>
+</ul>
+<p><i>Demo coming soon</i></p>
 </td>
-
+<td width="33%" valign="top" align="center">
+<br><br>
+<p><b>Next Project?</b></p>
+<p>Could be yours.</p>
+<br>
+<a href="https://github.com/antonbrunel">Get in touch</a>
+</td>
 </tr>
 </table>
 
