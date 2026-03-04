@@ -25,6 +25,12 @@ I build **real web products using AI-generated code**, then make them **actually
 
 I can't call myself a developer. I am a **Product Builder**. My value doesn't lie in the lines of code, but in orchestrating intelligence to solve business problems.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,vite,nodejs,supabase,vercel,n8n,cloudflare,docker&perline=11" alt="My Skills" />
+  </a>
+</p>
+
 • **UX Architecture** | From first scroll to conversion.  
 • **Business Funnels** | Turning traffic into leads and revenue.  
 • **Data Orchestration** | Managing flows between UI, AI, and DB.  
