@@ -129,7 +129,7 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 ### GitHub Velocity
 <p align="left">
   <img src="https://img.shields.io/badge/2025_Contributions-3%2C318-33B2EA?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Activity-Extreme-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Activity-Very High-7C3AED?style=for-the-badge" />
 </p>
 
 > **Continuous Iteration** | High-velocity building across private production environments and AI-integrated systems.
