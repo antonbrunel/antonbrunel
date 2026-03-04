@@ -28,7 +28,7 @@ I can't call myself a developer. I am a **Product Builder**. My value doesn't li
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,vite,nodejs,supabase,postgres,replit,vscode,figma,postman,vercel&perline=12" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,vite,nodejs,supabase,postgres,replit,vscode,figma,postman,vercel&perline=13" alt="My Skills" />
   </a>
 </p>
 
