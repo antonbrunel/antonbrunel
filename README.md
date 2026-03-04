@@ -126,6 +126,16 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 
 ---
 
+# GitHub Activity
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=antonbrunel&theme=transparent&hide_border=true&locale=fr" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
 # Featured Projects
 
 <table border="0">
