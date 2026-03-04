@@ -131,8 +131,8 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 <table border="0">
   <tr>
     <td width="33%" valign="top">
-      <h3>Step Up Factory</h3>
-      <p><b>Transformation Studio</b></p>
+      <h3>Resultats.stepupfactory.fr</h3>
+      <p><b>Transformation Studio and Gallery</b></p>
       <p><i>Visual proof engine for fitness results.</i></p>
       <ul>
         <li>Before/After editor</li>
@@ -142,27 +142,27 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
       <a href="https://resultats.stepupfactory.fr">Visit Project</a>
     </td>
     <td width="33%" valign="top">
-      <h3>Aether UX</h3>
+      <h3>Bilan.stepupfactory.fr</h3>
       <p><b>Booking System</b></p>
-      <p><i>Live coach booking with real-time editing.</i></p>
+      <p><i>Live booking fully personalisable by the coach.</i></p>
       <ul>
-        <li>Automated funnel</li>
+        <li>Ultra efficient automated funnel</li>
         <li>n8n orchestration</li>
         <li>Custom slug system</li>
       </ul>
       <a href="https://bilan.stepupfactory.fr">Visit Project</a>
     </td>
-    <td width="33%" valign="top">
-      <h3>D’Artgil Café</h3>
-      <p><b>Voice Assistant</b></p>
-      <p><i>Real-time voice AI for local business.</i></p>
-      <ul>
-        <li>Bidirectional streaming</li>
-        <li>Gemini Live API</li>
-        <li>Instant FAQ & Booking</li>
-      </ul>
-      <p><i>Development in progress</i></p>
-    </td>
+<td width="33%" valign="top">
+  <h3>D’Artgil Café</h3>
+  <p><b>Voice Assistant</b></p>
+  <p><i>Real-time voice AI for local business.</i></p>
+  <ul>
+    <li>Bidirectional streaming</li>
+    <li>Gemini Live API</li>
+    <li>Instant FAQ & Booking</li>
+  </ul>
+  <a href="https://wa.me/33783005392?text=Hey%20Anton!%20I%20just%20saw%20D'Artgil%20Café%20on%20your%20GitHub.%20I'd%20love%20to%20get%20access%20to%20the%20demo%20and%20chat%20about%20it!">Request demo access</a>
+</td>
   </tr>
   <tr>
     <td width="33%" valign="top">
@@ -170,28 +170,30 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
       <p><b>Real-time Game</b></p>
       <p><i>Collaborative experience with sync recovery.</i></p>
       <ul>
-        <li>Cooperative & Versus</li>
-        <li>Instant reconnection</li>
-        <li>State persistence</li>
+        <li>Unique Cooperative & Versus modes</li>
+        <li>Actually enjoyable design</li>
+        <li>Live and State persistence</li>
       </ul>
       <a href="https://sudoku-together-36386059600.us-west1.run.app">Play Now</a>
     </td>
     <td width="33%" valign="top">
       <h3>QSE Brunel</h3>
       <p><b>Industrial Training</b></p>
-      <p><i>Immersive platform for workplace safety.</i></p>
+      <p><i>Immersive platform used as a teaching tool for professionals and students.</i></p>
       <ul>
-        <li>AI Scenario generator</li>
+        <li>Deeply personalized scenario generation</li>
         <li>Investigation engine</li>
-        <li>Performance analytics</li>
+        <li>Performance analytics & feedback</li>
       </ul>
       <a href="https://qse.antton-brunel.com">Visit Project</a>
     </td>
     <td width="33%" valign="middle" align="center">
-      <p><b>Next Project?</b></p>
-      <p>Could be yours.</p>
-      <a href="https://github.com/antonbrunel">Get in touch</a>
-    </td>
+  <p><b>Next Project?</b></p>
+  <p>Could be yours.</p>
+  <a href="https://wa.me/33783005392?text=Hi%20Anton!%20I'm%20reaching%20out%20from%20your%20GitHub.%20I%20have%20a%20project%20idea%20and%20I'd%20love%20to%20discuss%20how%20we%20could%20build%20it%20together.">Get in touch</a>
+  <br>
+  <small><i>I would love to hear about your vision.</i></small>
+</td>
   </tr>
 </table>
 
@@ -242,9 +244,12 @@ Learn from usage
 # Connect
 
 <p>
-<a href="https://github.com/antonbrunel">
-<img src="https://img.shields.io/badge/GitHub-antonbrunel-black?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://github.com/antonbrunel">
+    <img src="https://img.shields.io/badge/GitHub-antonbrunel-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://wa.me/33783005392?text=Hi%20Anton!%20I'm%20coming%20from%20your%20GitHub%20profile.%20I'd%20love%20to%20discuss%20a%20project%20with%20you.">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
