@@ -120,10 +120,6 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 
 <br>
 
----
-<br>
-
-
 
 
 ### Ops & Infrastructure
