@@ -1,4 +1,4 @@
-
+<br>
 <h1 align="center">Anton Brunel</h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Made%20in-France-blue?style=for-the-badge" />
 </p>
 
-<br>
+
 
 ---
 <br>
@@ -342,6 +342,7 @@ Learn from usage
 </p>
 
 <br>
+
 ---
 <br>
 
