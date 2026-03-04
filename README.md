@@ -23,7 +23,7 @@
 
 I build **real web products using AI-generated code**, then make them **actually operable** in production.
 
-I am not a traditional developer. I am a **Product Builder**. My value doesn't lie in typing lines of code, but in orchestrating intelligence to solve business problems.
+I can't call myself a developer. I am a **Product Builder**. My value doesn't lie in the lines of code, but in orchestrating intelligence to solve business problems.
 
 • **UX Architecture** | From first scroll to conversion.  
 • **Business Funnels** | Turning traffic into leads and revenue.  
@@ -32,11 +32,11 @@ I am not a traditional developer. I am a **Product Builder**. My value doesn't l
 • **AI Integration** | Not just a chatbot, but a core feature.  
 • **Rapid Iteration** | From idea to live product in days, not months.
 
-**Carbon offset strategy** Using a lot of AI... so I’m **vegan to balance the energy karma.**
+🥬 **Carbon offset strategy** : Using a lot of AI... so I’m **vegan to balance my energy karma (not even joking).**
 
 ---
 
-# Product Architecture
+# Products Architecture
 ### How the system actually works
 
 ```mermaid
@@ -67,7 +67,7 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 | --- | --- | --- | --- |
 | **Intelligence** | `Gemini / Claude` | Reasoning & Voice Interaction | Optimized & Latency-ready |
 | **Logic & Flows** | `n8n / Node.js` | Business Rules & Orchestration | Automated & Error-handled |
-| **Database** | `Supabase` | Real-time Data & RLS Security | Persistent & Secure |
+| **Database** | `Supabase / RAG` | Real-time Data & RLS Security | Persistent, AI friendly & Secure |
 | **Runtime** | `Vercel / Deno` | Serverless Execution | Edge-deployed |
 | **PWA / UX** | `Vite / React` | Responsive Interface | Operational |
 
@@ -128,91 +128,83 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 
 # Featured Projects
 
-<table>
-<tr>
-
-<td width="20%" valign="top">
-
-### Step Up Factory
-
-### Transformation Studio
-
-**resultats.stepupfactory.fr**
-
-Transformations into powerful visual proof.
-
-• Before/After editor
-• Lead gen funnel
-• Mobile image pipeline
-
-[Visit project](https://resultats.stepupfactory.fr)
-
+<table border="0">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Resultats.stepupfactory.fr</h3>
+      <p><b>Transformation Studio and Gallery</b></p>
+      <p><i>Visual proof engine for fitness results.</i></p>
+      <ul>
+        <li>Before/After editor</li>
+        <li>Lead generation funnel</li>
+        <li>Mobile image pipeline</li>
+      </ul>
+      <a href="https://resultats.stepupfactory.fr">Visit Project</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Bilan.stepupfactory.fr</h3>
+      <p><b>Booking System</b></p>
+      <p><i>Live booking fully personalisable by the coach.</i></p>
+      <ul>
+        <li>Ultra efficient automated funnel</li>
+        <li>n8n orchestration</li>
+        <li>Custom slug system</li>
+      </ul>
+      <a href="https://bilan.stepupfactory.fr">Visit Project</a>
+    </td>
+<td width="33%" valign="top">
+  <h3>D’Artgil Café</h3>
+  <p><b>Voice Assistant</b></p>
+  <p><i>Real-time voice AI for local business.</i></p>
+  <ul>
+    <li>Bidirectional streaming</li>
+    <li>Gemini Live API</li>
+    <li>Instant FAQ & Booking</li>
+  </ul>
+  <a href="https://wa.me/33783005392?text=Hey%20Anton!%20I%20just%20saw%20D'Artgil%20Café%20on%20your%20GitHub.%20I'd%20love%20to%20get%20access%20to%20the%20demo%20and%20chat%20about%20it!">Request demo access</a>
 </td>
-
-<td width="20%" valign="top">
-
-### Step Up Factory
-
-### Aether UX
-
-**bilan.stepupfactory.fr**
-
-Coach booking platform with live editor.
-
-• Booking funnel
-• n8n orchestration
-• Custom slug system
-
-[Visit project](https://bilan.stepupfactory.fr)
-
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Sudoku Multiplayer</h3>
+      <p><b>Real-time Game</b></p>
+      <p><i>Collaborative experience with sync recovery.</i></p>
+      <ul>
+        <li>Unique Cooperative & Versus modes</li>
+        <li>Actually enjoyable design</li>
+        <li>Live and State persistence</li>
+      </ul>
+      <a href="https://sudoku-together-36386059600.us-west1.run.app">Play Now</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>QSE Brunel</h3>
+      <p><b>Industrial Training</b></p>
+      <p><i>Immersive platform used as a teaching tool for professionals and students.</i></p>
+      <ul>
+        <li>Deeply personalized scenario generation</li>
+        <li>Investigation engine</li>
+        <li>Performance analytics & feedback</li>
+      </ul>
+      <a href="https://qse.antton-brunel.com">Visit Project</a>
+    </td>
+    <td width="33%" valign="middle" align="center">
+  <p><b>Next Project?</b></p>
+  <p>Could be yours.</p>
+  <a href="https://wa.me/33783005392?text=Hi%20Anton!%20I'm%20reaching%20out%20from%20your%20GitHub.%20I%20have%20a%20project%20idea%20and%20I'd%20love%20to%20discuss%20how%20we%20could%20build%20it%20together.">Get in touch</a>
+  <br>
+  <small><i>I would love to hear about your vision.</i></small>
 </td>
-
-<td width="20%" valign="top">
-
-### Sudoku Multiplayer
-
-Real-time collaborative sudoku.
-
-• Co-op & versus
-• Seamless reconnection
-• Local state recovery
-
-[Link](https://sudoku-together-36386059600.us-west1.run.app)
-
-</td>
-
-<td width="20%" valign="top">
-
-### QSE Brunel
-
-Industrial training platform powered by AI.
-
-• Immersive investigation
-• Performance analytics
-• Scenario authoring
-
-[Link](https://qse.antton-brunel.com/#/welcome)
-
-</td>
-
-<td width="20%" valign="top">
-
-### D’Artgil Café
-
-### Voice Assistant
-
-Real-time voice AI for local business.
-
-• Bidirectional audio
-• Conversational AI
-• Instant FAQ & Booking
-
-URL coming soon
-
-</td>
-
-</tr>
+  </tr>
 </table>
+<p align="center">
+  <a href="https://portfolio.antton-brunel.com">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20Work-33B2EA?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
+  
+  <a href="https://projects.antton-brunel.com">
+    <img src="https://img.shields.io/badge/All%20Projects-Live%20Demos-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -250,7 +242,7 @@ URL coming soon
 
 # Philosophy
 
-**Speed > perfection** Build fast
+**Speed > perfection :** Build fast
 
 Ship real things
 
@@ -260,12 +252,17 @@ Learn from usage
 
 # Connect
 
-<p align="center">
-<a href="https://github.com/antonbrunel">
-<img src="https://img.shields.io/badge/GitHub-antonbrunel-black?style=for-the-badge&logo=github"/>
-</a>
+<p>
+  <a href="https://github.com/antonbrunel">
+    <img src="https://img.shields.io/badge/GitHub-antonbrunel-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://wa.me/33783005392?text=Hi%20Anton!%20I'm%20coming%20from%20your%20GitHub%20profile.%20I'd%20love%20to%20discuss%20a%20project%20with%20you.">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-If you like experimental products built with AI, follow the repository.
+If you have a project involving AI in mind, feel free to reach out or follow the repository.
+
+And before leaving, enjoy a bit more lettuce 🥬🥬🥬
