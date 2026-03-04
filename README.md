@@ -1,5 +1,4 @@
-
-```markdown
+markdown
 <h1 align="center">Anton Brunel</h1>
 
 <p align="center">
