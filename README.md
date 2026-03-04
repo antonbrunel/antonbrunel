@@ -32,11 +32,11 @@ I am not a traditional developer. I am a **Product Builder**. My value doesn't l
 • **AI Integration** | Not just a chatbot, but a core feature.  
 • **Rapid Iteration** | From idea to live product in days, not months.
 
-**Carbon offset strategy** Using a lot of AI... so I’m **vegan to balance the energy karma.**
+🥬 **Carbon offset strategy** : Using a lot of AI... so I’m **vegan to balance my energy karma (not even joking).**
 
 ---
 
-# Product Architecture
+# Products Architecture
 ### How the system actually works
 
 ```mermaid
@@ -67,7 +67,7 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 | --- | --- | --- | --- |
 | **Intelligence** | `Gemini / Claude` | Reasoning & Voice Interaction | Optimized & Latency-ready |
 | **Logic & Flows** | `n8n / Node.js` | Business Rules & Orchestration | Automated & Error-handled |
-| **Database** | `Supabase` | Real-time Data & RLS Security | Persistent & Secure |
+| **Database** | `Supabase / RAG` | Real-time Data & RLS Security | Persistent, AI friendly & Secure |
 | **Runtime** | `Vercel / Deno` | Serverless Execution | Edge-deployed |
 | **PWA / UX** | `Vite / React` | Responsive Interface | Operational |
 
@@ -250,7 +250,7 @@ URL coming soon
 
 # Philosophy
 
-**Speed > perfection** Build fast
+**Speed > perfection :** Build fast
 
 Ship real things
 
@@ -260,7 +260,7 @@ Learn from usage
 
 # Connect
 
-<p align="center">
+<p>
 <a href="https://github.com/antonbrunel">
 <img src="https://img.shields.io/badge/GitHub-antonbrunel-black?style=for-the-badge&logo=github"/>
 </a>
@@ -268,4 +268,4 @@ Learn from usage
 
 ---
 
-If you like experimental products built with AI, follow the repository.
+If you have a project involving AI in mind, feel free to reach out or follow the repository.
