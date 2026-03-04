@@ -1,6 +1,5 @@
 
-
-
+```markdown
 <h1 align="center">Anton Brunel</h1>
 
 <p align="center">
@@ -57,58 +56,65 @@ graph TD
     style DB fill:#3ecf8e,stroke:#fff,stroke-width:2px,color:#fff
     style Automation fill:#ff6d5a,stroke:#fff,stroke-width:2px,color:#fff
 
-⚡ Operating Infrastructure
-Building is only 50% of the job. I ensure the product is live, scalable, and monitored.
-Layer
-Provider
-Core Role
-Ecosystem Status
-Intelligence
-Gemini / Claude
-Reasoning & Voice Interaction
-🟢 Optimized & Latency-ready
-Logic & Flows
-n8n / Node.js
-Business Rules & Orchestration
-🟢 Automated & Error-handled
-Database
-Supabase
-Real-time Data & RLS Security
-🟢 Persistent & Secure
-Runtime
-Vercel / Deno
-Serverless Execution
-🟢 Edge-deployed
-PWA / UX
-Vite / React
-Responsive Interface
-🟢 Offline-ready
+```
 
-🧠 Tech Stack
-Frontend Engineering
-Modern architecture focused on conversion, performance and maintainability.
-	•	Core: React 18/19, TypeScript, Vite, SPA architecture.
-	•	UI System: Tailwind CSS, shadcn/ui, Radix UI, Framer Motion.
-	•	Data: TanStack React Query, Context API, Zod validation, React Hook Form.
-AI-Integrated Development
-Designing products where AI is a part of the experience, not just a tool.
-	•	Engines: Gemini Live API (real-time voice), OpenAI, Claude/Anthropic.
-	•	AI Ops: Prompt engineering, System constraints, Guardrails, Conversational UX.
-	•	Audio: Web Audio API, PCM processing, AudioContext, Real-time streaming.
-Automation & Infrastructure
-Connecting products to the real world.
-	•	Workflows: n8n (self-hosted), n8n Tables, Webhook pipelines, API Ingestion.
-	•	BaaS: Supabase (Postgres + RLS), Edge Functions, Google OAuth.
-	•	Ops: Zeabur, Cloudflare, Render, Google Cloud Platform.
+---
 
-📱 Robustness & Edge Features
+# ⚡ Operating Infrastructure
+
+Building is only 50% of the job. I ensure the product is **live, scalable, and monitored.**
+
+| Layer | Provider | Core Role | Ecosystem Status |
+| --- | --- | --- | --- |
+| **Intelligence** | `Gemini / Claude` | Reasoning & Voice Interaction | 🟢 Optimized & Latency-ready |
+| **Logic & Flows** | `n8n / Node.js` | Business Rules & Orchestration | 🟢 Automated & Error-handled |
+| **Database** | `Supabase` | Real-time Data & RLS Security | 🟢 Persistent & Secure |
+| **Runtime** | `Vercel / Deno` | Serverless Execution | 🟢 Edge-deployed |
+| **PWA / UX** | `Vite / React` | Responsive Interface | 🟢 Offline-ready |
+
+---
+
+# 🧠 Tech Stack
+
+### Frontend Engineering
+
+*Modern architecture focused on conversion, performance and maintainability.*
+
+* **Core:** React 18/19, TypeScript, Vite, SPA architecture.
+* **UI System:** Tailwind CSS, shadcn/ui, Radix UI, Framer Motion.
+* **Data:** TanStack React Query, Context API, Zod validation, React Hook Form.
+
+### AI-Integrated Development
+
+*Designing products where AI is a part of the experience, not just a tool.*
+
+* **Engines:** Gemini Live API (real-time voice), OpenAI, Claude/Anthropic.
+* **AI Ops:** Prompt engineering, System constraints, Guardrails, Conversational UX.
+* **Audio:** Web Audio API, PCM processing, AudioContext, Real-time streaming.
+
+### Automation & Infrastructure
+
+*Connecting products to the real world.*
+
+* **Workflows:** n8n (self-hosted), n8n Tables, Webhook pipelines, API Ingestion.
+* **BaaS:** Supabase (Postgres + RLS), Edge Functions, Google OAuth.
+* **Ops:** Zeabur, Cloudflare, Render, Google Cloud Platform.
+
+---
+
+# 📱 Robustness & Edge Features
+
 I focus on the "hard parts" that make apps feel native and reliable:
-	•	PWA Patterns: Service workers & offline-ready flows.
-	•	Resilience: Local persistence (Session recovery, no data loss).
-	•	Real-time UX: Silent reconnection and state synchronization.
-	•	Performance: Memory-safe image processing and mobile-first logic.
 
-📂 Featured Projects
+* **PWA Patterns:** Service workers & offline-ready flows.
+* **Resilience:** Local persistence (Session recovery, no data loss).
+* **Real-time UX:** Silent reconnection and state synchronization.
+* **Performance:** Memory-safe image processing and mobile-first logic.
+
+---
+
+# 📂 Featured Projects
+
 <table border="0">
 <tr>
 <td width="33%" valign="top">
@@ -169,21 +175,31 @@ I focus on the "hard parts" that make apps feel native and reliable:
 <td width="33%" valign="top">
 <p align="center">✨
 
+
+
 <b>Next Project?</b>
+
+
 
 Could be yours.</p>
 </td>
 </tr>
 </table>
 
-🧩 Capabilities & Philosophy
-	•	Speed > Perfection: Build fast. Ship real things. Learn from usage.
-	•	Engineering Orchestration: Turning AI-generated code into clean, maintainable modules.
-	•	Human-Centered AI: Designing guardrails and safe UX for non-technical users.
-⭐ If you like experimental products built with AI, follow my journey.
+---
+
+# 🧩 Capabilities & Philosophy
+
+* **Speed > Perfection:** Build fast. Ship real things. Learn from usage.
+* **Engineering Orchestration:** Turning AI-generated code into clean, maintainable modules.
+* **Human-Centered AI:** Designing guardrails and safe UX for non-technical users.
+
+⭐ *If you like experimental products built with AI, follow my journey.*
 
 <p align="center">
 <a href="https://github.com/antonbrunel">
 <img src="https://img.shields.io/badge/GitHub-antonbrunel-black?style=for-the-badge&logo=github" />
 </a>
 </p>
+
+```
