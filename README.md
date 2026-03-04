@@ -18,7 +18,7 @@
 </p>
 
 ---
-
+<br>
 
 
 
@@ -47,7 +47,7 @@ I can't call myself a developer. I am a **Product Builder**. My value doesn't li
 🥬 **Carbon offset strategy** : Using a lot of AI... so I’m **vegan to balance my energy karma (not even joking).**
 
 ---
-
+<br>
 
 
 
@@ -74,7 +74,7 @@ graph TD
 ```
 
 ---
-
+<br>
 
 
 
@@ -92,7 +92,7 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 | **PWA / UX** | `Vite / React` | Responsive Interface | Operational |
 
 ---
-
+<br>
 
 
 
@@ -111,7 +111,7 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 </p>
 
 ---
-
+<br>
 
 
 
@@ -130,7 +130,7 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 </p>
 
 ---
-
+<br>
 
 
 
@@ -157,7 +157,7 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 * **Mobile:** Memory-safe image processing and low-friction mobile flows.
 
 ---
-
+<br>
 
 
 
@@ -171,7 +171,7 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 > **Continuous Iteration** | High-velocity building across private production environments and AI-integrated systems.
 
 ---
-
+<br>
 
 
 
@@ -257,7 +257,7 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 </p>
 
 ---
-
+<br>
 
 
 
@@ -293,7 +293,7 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 • Guardrails and safe UX
 
 ---
-
+<br>
 
 
 
@@ -307,7 +307,7 @@ Ship real things
 Learn from usage
 
 ---
-
+<br>
 
 
 
