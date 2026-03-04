@@ -17,7 +17,9 @@
   <img src="https://img.shields.io/badge/Made%20in-France-blue?style=for-the-badge" />
 </p>
 
+
 ---
+
 
 # About
 
@@ -42,7 +44,9 @@ I can't call myself a developer. I am a **Product Builder**. My value doesn't li
 
 🥬 **Carbon offset strategy** : Using a lot of AI... so I’m **vegan to balance my energy karma (not even joking).**
 
+
 ---
+
 
 # Products Architecture
 ### How the system actually works
@@ -65,7 +69,9 @@ graph TD
 
 ```
 
+
 ---
+
 
 # Operating Infrastructure
 
@@ -79,7 +85,9 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 | **Runtime** | `Vercel / Deno` | Serverless Execution | Edge-deployed |
 | **PWA / UX** | `Vite / React` | Responsive Interface | Operational |
 
+
 ---
+
 
 # Stack & Infrastructure
 
@@ -94,7 +102,9 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 <img src="https://img.shields.io/badge/Windsurf-AI-blue?style=for-the-badge"/>
 </p>
 
+
 ---
+
 
 ### Ops & Infrastructure
 
@@ -109,7 +119,9 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 <img src="https://img.shields.io/badge/Google%20Cloud-Platform-blue?style=for-the-badge&logo=googlecloud"/>
 </p>
 
+
 ---
+
 
 # Tech Stack Details
 
@@ -132,7 +144,9 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 * **Real-time UX:** Silent reconnection and state synchronization.
 * **Mobile:** Memory-safe image processing and low-friction mobile flows.
 
+
 ---
+
 
 ### GitHub Velocity
 <p align="left">
@@ -142,7 +156,9 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 
 > **Continuous Iteration** | High-velocity building across private production environments and AI-integrated systems.
 
+
 ---
+
 
 # Featured Projects
 
@@ -224,7 +240,9 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
   </a>
 </p>
 
+
 ---
+
 
 # Capabilities
 
@@ -256,7 +274,9 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 
 • Guardrails and safe UX
 
+
 ---
+
 
 # Philosophy
 
@@ -266,7 +286,9 @@ Ship real things
 
 Learn from usage
 
+
 ---
+
 
 # Connect
 
