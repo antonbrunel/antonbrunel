@@ -341,10 +341,6 @@ Learn from usage
   </a>
 </p>
 
-<br>
-
----
-<br>
 
 If you have a project involving AI in mind, feel free to reach out or follow the repository.
 
