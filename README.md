@@ -129,77 +129,70 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 # Featured Projects
 
 <table border="0">
-<tr>
-<td width="33%" valign="top">
-<h3>Step Up Factory</h3>
-<p><b>Transformation Studio</b></p>
-<p><i>Visual proof engine for fitness results.</i></p>
-<ul>
-<li>Before/After editor</li>
-<li>Lead generation funnel</li>
-<li>Mobile image pipeline</li>
-</ul>
-<a href="https://resultats.stepupfactory.fr">Visit Project</a>
-</td>
-<td width="33%" valign="top">
-<h3>Aether UX</h3>
-<p><b>Booking System</b></p>
-<p><i>Live coach booking with real-time editing.</i></p>
-<ul>
-<li>Automated funnel</li>
-<li>n8n orchestration</li>
-<li>Custom slug system</li>
-</ul>
-<a href="https://bilan.stepupfactory.fr">Visit Project</a>
-</td>
-<td width="33%" valign="top">
-<h3>D’Artgil Café</h3>
-<p><b>Voice Assistant</b></p>
-<p><i>Real-time voice AI for local business.</i></p>
-<ul>
-<li>Bidirectional streaming</li>
-<li>Gemini Live API</li>
-<li>Instant FAQ & Booking</li>
-</ul>
-<p><i>Development in progress</i></p>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<h3>Sudoku Multiplayer</h3>
-<p><b>Real-time Game</b></p>
-<p><i>Collaborative experience with sync recovery.</i></p>
-<ul>
-<li>Cooperative & Versus</li>
-<li>Instant reconnection</li>
-<li>State persistence</li>
-</ul>
-<a href="https://sudoku-together-36386059600.us-west1.run.app">Play Now</a>
-</td>
-<td width="33%" valign="top">
-<h3>QSE Brunel</h3>
-<p><b>Industrial Training</b></p>
-<p><i>Immersive platform for workplace safety.</i></p>
-<ul>
-<li>AI Scenario generator</li>
-<li>Investigation engine</li>
-<li>Performance analytics</li>
-</ul>
-<p><i>URL coming soon</i></p>
-</td>
-<td width="33%" valign="top" align="center">
-
-
-
-
-<p><b>Next Project?</b></p>
-<p>Could be yours.</p>
-
-
-
-<a href="https://github.com/antonbrunel">Get in touch</a>
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Step Up Factory</h3>
+      <p><b>Transformation Studio</b></p>
+      <p><i>Visual proof engine for fitness results.</i></p>
+      <ul>
+        <li>Before/After editor</li>
+        <li>Lead generation funnel</li>
+        <li>Mobile image pipeline</li>
+      </ul>
+      <a href="https://resultats.stepupfactory.fr">Visit Project</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Aether UX</h3>
+      <p><b>Booking System</b></p>
+      <p><i>Live coach booking with real-time editing.</i></p>
+      <ul>
+        <li>Automated funnel</li>
+        <li>n8n orchestration</li>
+        <li>Custom slug system</li>
+      </ul>
+      <a href="https://bilan.stepupfactory.fr">Visit Project</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>D’Artgil Café</h3>
+      <p><b>Voice Assistant</b></p>
+      <p><i>Real-time voice AI for local business.</i></p>
+      <ul>
+        <li>Bidirectional streaming</li>
+        <li>Gemini Live API</li>
+        <li>Instant FAQ & Booking</li>
+      </ul>
+      <p><i>Development in progress</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Sudoku Multiplayer</h3>
+      <p><b>Real-time Game</b></p>
+      <p><i>Collaborative experience with sync recovery.</i></p>
+      <ul>
+        <li>Cooperative & Versus</li>
+        <li>Instant reconnection</li>
+        <li>State persistence</li>
+      </ul>
+      <a href="https://sudoku-together-36386059600.us-west1.run.app">Play Now</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>QSE Brunel</h3>
+      <p><b>Industrial Training</b></p>
+      <p><i>Immersive platform for workplace safety.</i></p>
+      <ul>
+        <li>AI Scenario generator</li>
+        <li>Investigation engine</li>
+        <li>Performance analytics</li>
+      </ul>
+      <a href="https://qse.antton-brunel.com">Visit Project</a>
+    </td>
+    <td width="33%" valign="middle" align="center">
+      <p><b>Next Project?</b></p>
+      <p>Could be yours.</p>
+      <a href="https://github.com/antonbrunel">Get in touch</a>
+    </td>
+  </tr>
 </table>
 
 ---
