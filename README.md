@@ -126,13 +126,13 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 
 ---
 
-# GitHub Activity
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=antonbrunel&theme=transparent&hide_border=true&locale=fr" alt="GitHub Streak" />
-  </a>
+### GitHub Velocity
+<p align="left">
+  <img src="https://img.shields.io/badge/2025_Contributions-3%2C318-33B2EA?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Activity-Extreme-7C3AED?style=for-the-badge" />
 </p>
+
+> **Continuous Iteration** | High-velocity building across private production environments and AI-integrated systems.
 
 ---
 
