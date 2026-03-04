@@ -1,116 +1,231 @@
+<!-- ================================================= -->
+<!-- HEADER -->
+<!-- ================================================= -->
 
-<!-- ========================= -->
-<!-- Anton Brunel — Profile README -->
-<!-- ========================= -->
+<h1 align="center">Anton Brunel</h1>
 
-<h1 align="left">Anton Brunel</h1>
+<p align="center">
 
-<p align="left">
-Je construis des web apps et des produits digitaux avec du <b>code généré par IA</b>, puis je les rends <b>réellement opérables</b> (prod, données, automatisations, déploiements).
-<br/>
-Je ne suis pas développeur de formation, mon rôle est <b>product builder</b> : UX, parcours, logique métier, intégrations, itération rapide.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=33B2EA&center=true&vCenter=true&width=800&lines=AI-powered+product+builder;Web+apps+%2B+automation+%2B+UX;Turning+ideas+into+real+products;Shipping+fast+with+AI+tools" alt="Typing SVG" />
+</a>
+
 </p>
 
-<p align="left">
-<b>Ops & Delivery</b> : Supabase · n8n (n8n tables) · Zeabur · Vercel · Render · Cloudflare · OVH · Google Cloud
-<br/>
-<b>IA</b> : Codex · Gemini (Google AI Studio) · ChatGPT · Claude · DeepSeek · Windsurf
+<p align="center">
+
+<img src="https://img.shields.io/badge/Product-Builder-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Assisted%20Development-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vegan-Low%20Carbon-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Made%20in-France-blue?style=for-the-badge"/>
+
 </p>
 
-<p align="left">
-🌱 Petite compensation carbone personnelle : beaucoup d’IA… mais vegan pour équilibrer le karma énergétique.
-</p>
+---
 
-<hr/>
+# About
 
-<h2 align="left">Projets en vedette</h2>
+I build **real web products using AI-generated code**, then make them **actually operable** in production.
 
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <h3>Step Up Factory – Aether UX</h3>
-      <p>
-        <b>bilan.stepupfactory.fr</b><br/>
-        Réservation coach sur-mesure, du premier clic à la confirmation, avec éditeur live.
-      </p>
-      <p>
-        • Parcours de réservation par coach (/:slug)<br/>
-        • Éditeur sécurisé (/:slug/edit) + preview runtime<br/>
-        • Webhooks n8n + fallback/caching résilients
-      </p>
-      <p>
-        <a href="https://bilan.stepupfactory.fr">Voir le projet</a>
-      </p>
-    </td>
+Not a traditional developer.  
+My role is **product builder**:
 
-    <td width="25%" valign="top">
-      <h3>Sudoku Multiplayer</h3>
-      <p>
-        Sudoku collaboratif & versus, synchronisé en temps réel, design ultra minimaliste.
-      </p>
-      <p>
-        • Co-op & Versus en temps réel<br/>
-        • Reconnexion silencieuse + backup local<br/>
-        • “Illusion” de continuité réseau
-      </p>
-      <p>
-        <a href="https://sudoku-together-36386059600.us-west1.run.app">Voir le projet</a>
-      </p>
-    </td>
+• UX architecture  
+• business funnels  
+• data orchestration  
+• automation  
+• AI integration  
+• rapid iteration
 
-    <td width="25%" valign="top">
-      <h3>QSE – Brunel</h3>
-      <p>
-        Plateforme de formation industrielle immersive (QSE) via simulations scénarisées par IA.
-      </p>
-      <p>
-        • Serious game conversationnel<br/>
-        • Reporting managérial + métriques<br/>
-        • Scénarios stricts + guardrails
-      </p>
-      <p>
-        <i>URL à ajouter</i>
-      </p>
-    </td>
+---
 
-    <td width="25%" valign="top">
-      <h3>D’Artgil Café – Assistant Vocal</h3>
-      <p>
-        Agent vocal temps réel pour un café céramique : FAQ, accueil, réservations.
-      </p>
-      <p>
-        • Audio bidirectionnel en navigateur<br/>
-        • Latence faible + streaming<br/>
-        • Réponses sûres et cadrées
-      </p>
-      <p>
-        <i>URL à ajouter</i>
-      </p>
-    </td>
-  </tr>
-</table>
+🌱 **Carbon offset strategy**
 
-<hr/>
+Using a lot of AI…  
+so I'm **vegan to balance the energy karma.**
 
-<h2 align="left">Ce que je sais faire (concret)</h2>
+---
 
-<ul>
-  <li><b>Transformer une idée en produit</b> : parcours, écrans, logique métier, itération rapide.</li>
-  <li><b>Concevoir une UX qui convertit</b> : funnels, onboarding, clarté, confiance, design premium.</li>
-  <li><b>Rendre une app opérable</b> : données propres, tracking, automatisations, déploiement.</li>
-  <li><b>Orchestrer l’IA dans un produit</b> : prompts, guardrails, UX “simple malgré la complexité”.</li>
-</ul>
+# Stack & Infrastructure
 
-<hr/>
-
-<h2 align="left">Contact</h2>
+### AI Tools
 
 <p>
-Si tu veux discuter produit, UX, automatisation ou IA appliquée :<br/>
-<b>GitHub :</b> <a href="https://github.com/antonbrunel">github.com/antonbrunel</a>
+
+<img src="https://img.shields.io/badge/OpenAI-ChatGPT-black?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/Google-Gemini-blue?style=for-the-badge&logo=google"/>
+<img src="https://img.shields.io/badge/Claude-Anthropic-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DeepSeek-AI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Codex-OpenAI-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Windsurf-AI-blue?style=for-the-badge"/>
+
 </p>
 
-<!-- Optional: Stats -->
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=antonbrunel&show_icons=true" />
--->
+---
+
+### Ops & Infrastructure
+
+<p>
+
+<img src="https://img.shields.io/badge/Supabase-Database-green?style=for-the-badge&logo=supabase"/>
+<img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge&logo=n8n"/>
+<img src="https://img.shields.io/badge/Vercel-Deployment-black?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Zeabur-Hosting-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Render-Cloud-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloudflare-Edge-orange?style=for-the-badge&logo=cloudflare"/>
+<img src="https://img.shields.io/badge/OVH-Infra-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-Platform-blue?style=for-the-badge&logo=googlecloud"/>
+
+</p>
+
+---
+
+# GitHub Activity
+
+<p align="center">
+
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=antonbrunel&theme=transparent&hide_border=true&locale=fr"/>
+</a>
+
+</p>
+
+---
+
+# Featured Projects
+
+<table>
+<tr>
+
+<td width="20%" valign="top">
+
+### Step Up Factory  
+### Transformation Studio
+
+**resultats.stepupfactory.fr**
+
+Transform transformations into powerful visual proof.
+
+• Before/After editor  
+• lead generation funnel  
+• coach directory  
+• mobile optimized image pipeline  
+
+[Visit project](https://resultats.stepupfactory.fr)
+
+</td>
+
+<td width="20%" valign="top">
+
+### Step Up Factory  
+### Aether UX
+
+**bilan.stepupfactory.fr**
+
+Coach booking platform with live editor.
+
+• booking funnel  
+• coach customization  
+• webhook automation  
+• N8N orchestration  
+
+[Visit project](https://bilan.stepupfactory.fr)
+
+</td>
+
+<td width="20%" valign="top">
+
+### Sudoku Multiplayer
+
+Real-time collaborative sudoku.
+
+• cooperative & versus  
+• seamless reconnection  
+• local state sync  
+
+https://sudoku-together-36386059600.us-west1.run.app
+
+</td>
+
+<td width="20%" valign="top">
+
+### QSE Brunel
+
+Industrial training platform powered by AI.
+
+• immersive investigation engine  
+• performance analytics  
+• scenario generator  
+
+URL coming soon
+
+</td>
+
+<td width="20%" valign="top">
+
+### D’Artgil Café  
+### Voice Assistant
+
+Real-time voice AI for local businesses.
+
+• bidirectional audio streaming  
+• conversational AI  
+• instant FAQ & booking  
+
+URL coming soon
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# Capabilities
+
+### Product
+
+• idea → product architecture  
+• conversion funnels  
+• UX design  
+• business logic
+
+### Engineering orchestration
+
+• AI generated code  
+• workflow automation  
+• infrastructure deployment  
+• data pipelines
+
+### AI integration
+
+• prompt engineering  
+• conversational systems  
+• AI agents  
+• human-centered UX
+
+---
+
+# Philosophy
+
+**Speed > perfection**
+
+Build fast  
+Ship real things  
+Learn from usage
+
+---
+
+# Connect
+
+<p>
+
+<a href="https://github.com/antonbrunel">
+<img src="https://img.shields.io/badge/GitHub-antonbrunel-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+⭐ If you like experimental products built with AI, follow the repo.
