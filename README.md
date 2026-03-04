@@ -264,3 +264,5 @@ Learn from usage
 ---
 
 If you have a project involving AI in mind, feel free to reach out or follow the repository.
+
+And before leaving, enjoy a bit more lettuce 🥬🥬🥬
