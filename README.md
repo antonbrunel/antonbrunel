@@ -80,9 +80,9 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 <p>
 <img src="https://img.shields.io/badge/OpenAI-ChatGPT-black?style=for-the-badge&logo=openai"/>
 <img src="https://img.shields.io/badge/Google-Gemini-blue?style=for-the-badge&logo=google"/>
-<img src="https://img.shields.io/badge/Claude-Anthropic-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Anthropic-Claude-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DeepSeek-AI-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Codex-OpenAI-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-Codex-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Windsurf-AI-blue?style=for-the-badge"/>
 </p>
 
@@ -191,7 +191,7 @@ Industrial training platform powered by AI.
 • Performance analytics
 • Scenario authoring
 
-URL coming soon
+[Link](https://qse.antton-brunel.com/#/welcome)
 
 </td>
 
