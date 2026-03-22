@@ -205,6 +205,7 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
         <li>Coach identity propagated across all three apps via URL params & localStorage — one link, full context</li>
       </ul>
       <a href="https://stepupfactory.fr">Visit stepupfactory.fr</a>
+      <br>
     </td>
     <td width="50%" valign="top">
       <h3>Vocal Flow</h3>
@@ -216,6 +217,7 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
         <li>Two pipeline modes: ultra-low latency (OpenAI Realtime) or modular (Deepgram STT → GPT-4o → ElevenLabs TTS)</li>
       </ul>
       <a href="https://app.antton-brunel.com">Enjoy demo access</a>
+      <br>
     </td>
   </tr>
   <tr>
@@ -229,6 +231,7 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
         <li>Live and State persistence</li>
       </ul>
       <a href="https://sudoku-together-36386059600.us-west1.run.app">Play Now</a>
+      <br>
     </td>
     <td width="50%" valign="top">
       <h3>QSE Brunel</h3>
@@ -240,10 +243,12 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
         <li>Performance analytics & feedback</li>
       </ul>
       <a href="https://qse.antton-brunel.com">Visit Project</a>
+      <br>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="middle" align="center" colspan="2">
+      <br>
       <p><b>Next Project?</b></p>
       <p>Could be yours.</p>
       <a href="https://wa.me/33783005392?text=Hi%20Anton!%20I'm%20reaching%20out%20from%20your%20GitHub.%20I%20have%20a%20project%20idea%20and%20I'd%20love%20to%20discuss%20how%20we%20could%20build%20it%20together.">Get in touch</a>
@@ -251,6 +256,7 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
       <small><i>I would love to hear about your vision.</i></small>
     </td>
   </tr>
+  <br>
 </table>
 
 <p align="center">
