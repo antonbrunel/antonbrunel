@@ -246,27 +246,24 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
       <br>
     </td>
   </tr>
-  <tr>
+<tr>
     <td width="50%" valign="middle" align="center" colspan="2">
       <br>
       <p><b>Next Project?</b></p>
       <p>Could be yours.</p>
       <a href="https://wa.me/33783005392?text=Hi%20Anton!%20I'm%20reaching%20out%20from%20your%20GitHub.%20I%20have%20a%20project%20idea%20and%20I'd%20love%20to%20discuss%20how%20we%20could%20build%20it%20together.">Get in touch</a>
-      <br>
+      <br><br>
       <small><i>I would love to hear about your vision.</i></small>
+      <br><br>
+      <a href="https://portfolio.antton-brunel.com">
+        <img src="https://img.shields.io/badge/Portfolio-Explore%20Work-33B2EA?style=for-the-badge&logo=react&logoColor=white"/>
+      </a>
+      &nbsp;
+      <a href="https://projects.antton-brunel.com">
+        <img src="https://img.shields.io/badge/All%20Projects-Live%20Demos-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
     </td>
   </tr>
-  <br>
-
-  <p align="center">
-  <a href="https://portfolio.antton-brunel.com">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20Work-33B2EA?style=for-the-badge&logo=react&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://projects.antton-brunel.com">
-    <img src="https://img.shields.io/badge/All%20Projects-Live%20Demos-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
 </table>
 
 
