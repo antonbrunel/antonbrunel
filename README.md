@@ -257,9 +257,8 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
     </td>
   </tr>
   <br>
-</table>
 
-<p align="center">
+  <p align="center">
   <a href="https://portfolio.antton-brunel.com">
     <img src="https://img.shields.io/badge/Portfolio-Explore%20Work-33B2EA?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
@@ -268,6 +267,9 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
     <img src="https://img.shields.io/badge/All%20Projects-Live%20Demos-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
+</table>
+
+
 
 <br>
 
