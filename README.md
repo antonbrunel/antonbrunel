@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=33B2EA&center=true&vCenter=true&width=820&lines=AI-powered+product+builder;Web+apps+%2B+automation+%2B+UX;Turning+ideas+into+real+products;Shipping+fast+with+AI+tools"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=33B2EA&center=true&vCenter=true&width=820&lines=AI-powered+product+builder;Custom+AI+%26+automation+for+SMBs+%26+scale-ups;Web+apps+%2B+automation+%2B+UX;Turning+ideas+into+real+products;Shipping+fast+with+AI+tools"
       alt="Typing SVG"
     />
   </a>
@@ -27,6 +27,8 @@
 I build **real web products using AI-generated code**, then make them **actually operable** in production.
 
 I don't call myself a developer. I am a **Product Builder**. My value doesn't lie in the lines of code, but in orchestrating intelligence to solve business problems.
+
+I design concrete systems that reduce repetitive tasks, improve service quality, and structure operational flows — for **SMBs, scale-ups, and field teams** ready to modernize.
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -192,27 +194,29 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 
 # Featured Projects
 
+Each project is a live use case of a solution I build and deploy for clients.
+
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>StepUp Factory Suite</h3>
-      <p><b>Coach-to-Client Conversion Ecosystem</b></p>
+      <h3>SaaS Métier & CRM Intelligent</h3>
+      <p><b>Use case → StepUp Factory Suite</b></p>
       <p><i>Three connected products, one seamless journey — from first impression to booked session.</i></p>
       <ul>
-        <li>Landing hub with live Google Maps reviews, real-time public results count & smart redirects</li>
+        <li>All-in-one platform with branded portal, lead acquisition, and booking — CRM auto-enriched via n8n</li>
         <li>Before/After gallery + lead generation funnel (resultats.stepupfactory.fr)</li>
-        <li>Fully customizable booking system with n8n orchestration & custom slug per coach (bilan.stepupfactory.fr)</li>
+        <li>Fully customizable booking system with custom slug per coach (bilan.stepupfactory.fr)</li>
         <li>Coach identity propagated across all three apps via URL params & localStorage — one link, full context</li>
       </ul>
       <a href="https://stepupfactory.fr">Visit stepupfactory.fr</a>
       <br>
     </td>
     <td width="50%" valign="top">
-      <h3>Vocal Flow</h3>
-      <p><b>AI Voice Agent Full Stack Platform</b></p>
+      <h3>Solutions Téléphoniques IA</h3>
+      <p><b>Use case → Vocal Flow</b></p>
       <p><i>Turn every missed call into a handled conversation — your business never stops answering.</i></p>
       <ul>
-        <li>Real-time voice AI over phone calls (Twilio + OpenAI Realtime API, ~500ms latency)</li>
+        <li>Real-time voice AI over phone calls (VoIP + LLM, ~500ms latency) — zero missed call</li>
         <li>Multi-tenant SaaS with Google Calendar booking, SMS alerts, and per-tenant prompt configuration</li>
         <li>Two pipeline modes: ultra-low latency (OpenAI Realtime) or modular (Deepgram STT → GPT-4o → ElevenLabs TTS)</li>
       </ul>
@@ -222,32 +226,44 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Sudoku Multiplayer</h3>
-      <p><b>Real-time Game</b></p>
-      <p><i>Collaborative experience with sync recovery.</i></p>
+      <h3>E-Learning Immersif & Serious Games</h3>
+      <p><b>Use case → QSE Brunel</b></p>
+      <p><i>Immersive training platform for QSE, HR, and industrial contexts — built for professionals and students.</i></p>
       <ul>
-        <li>Unique Cooperative & Versus modes</li>
-        <li>Actually enjoyable design</li>
-        <li>Live and State persistence</li>
-      </ul>
-      <a href="https://sudoku-together-36386059600.us-west1.run.app">Play Now</a>
-      <br>
-    </td>
-    <td width="50%" valign="top">
-      <h3>QSE Brunel</h3>
-      <p><b>Industrial Training</b></p>
-      <p><i>Immersive platform used as a teaching tool for professionals and students.</i></p>
-      <ul>
-        <li>Deeply personalized scenario generation</li>
-        <li>Investigation engine</li>
-        <li>Performance analytics & feedback</li>
+        <li>AI-assisted scenario generation, deeply personalized per learner</li>
+        <li>Investigation engine with branching logic</li>
+        <li>Real-time performance analytics & structured feedback</li>
       </ul>
       <a href="https://qse.antton-brunel.com">Visit Project</a>
       <br>
     </td>
+    <td width="50%" valign="top">
+      <h3>Architectures Temps Réel & UX Ludique</h3>
+      <p><b>Use case → Sudoku Multiplayer</b></p>
+      <p><i>Cooperative & competitive real-time architecture — engagement-first UI/UX.</i></p>
+      <ul>
+        <li>WebSocket-based state sync across players — Cooperative & Versus modes</li>
+        <li>Robust state management with live persistence and session recovery</li>
+        <li>UI/UX designed for engagement, not just functionality</li>
+      </ul>
+      <a href="https://sudoku-together-36386059600.us-west1.run.app">Play Now</a>
+      <br>
+    </td>
   </tr>
-<tr>
-    <td width="50%" valign="middle" align="center" colspan="2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Vitrines Digitales Connectées</h3>
+      <p><b>Use case → Gracefull</b></p>
+      <p><i>Actionable web presence with full operational autonomy — built for merchants and local businesses.</i></p>
+      <ul>
+        <li>Custom CMS — ultra-intuitive, no technical knowledge required</li>
+        <li>API/Webhook connections to CRM, POS, newsletters, social media, and menus</li>
+        <li>Conversion-focused design with smart redirects and lead capture</li>
+      </ul>
+      <a href="https://gracefull.fr">Visit Gracefull</a>
+      <br>
+    </td>
+    <td width="50%" valign="middle" align="center">
       <br>
       <p><b>Next Project?</b></p>
       <p>Could be yours.</p>
@@ -337,6 +353,9 @@ Building is only 50% of the job. I ensure the product is **live, scalable, and m
 # Connect
 
 <p>
+  <a href="https://antton-brunel.com">
+    <img src="https://img.shields.io/badge/antton--brunel.com-AI%20%26%20Automation-33B2EA?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://github.com/antonbrunel">
     <img src="https://img.shields.io/badge/GitHub-antonbrunel-black?style=for-the-badge&logo=github"/>
   </a>
