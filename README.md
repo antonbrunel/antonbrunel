@@ -21,7 +21,9 @@ Applications, automatisations et systèmes IA sur mesure, construits en solo à 
 
 ## Ouvert ici
 
+- [machine-voxel](https://github.com/antonbrunel/machine-voxel), le moteur des machines en cubes des pages projet, en canvas 2D sans librairie, avec ses huit règles et la sonde qui les vérifie. MIT.
 - [coherence-par-construction](https://github.com/antonbrunel/coherence-par-construction), les quatre garde-fous du site, en Node sans dépendance, avec l'épreuve qui vérifie qu'ils gardent. MIT.
+- [ligne-activite](https://github.com/antonbrunel/ligne-activite), la ligne d'activité au bas des pages projet, qui se remplit seule chaque lundi. MIT.
 - [voixflash](https://github.com/antonbrunel/voixflash), l'outil lui-même, sous licence MIT.
 - [ssh-portfolio](https://github.com/antonbrunel/ssh-portfolio), le parcours en ligne de commande : `ssh -p 32013 portfolio@43.157.1.94`.
 - [step-into-wonder](https://github.com/antonbrunel/step-into-wonder), une scène de portail en HTML, CSS et JavaScript, [en ligne](https://step-into-wonder-theta.vercel.app).
